@@ -1,38 +1,51 @@
-# Awesome-Deep-Learning-Libraries
+<div align="center">
 
-## Top Deep Learning Libraries Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Deep Learning Libraries Banner" width="100%" />
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-*Focused on Model Building, High-Level APIs & Multi-Backend Flexibility*  
-**Last updated: October 2026**
+# 🧠 Awesome Deep Learning Libraries & Frameworks
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Deep Learning Libraries**. These tools provide the abstractions, layers, and training loops developers use to build neural networks—from high-level APIs that ship state-of-the-art results in a few lines of code to low-level frameworks that expose every tensor operation.
+### 🚀 A Curated List of Premier Deep Learning Libraries, Neural Network Frameworks & SaaS MLOps Platforms
 
-**Examples** include PyTorch, TensorFlow, Keras, JAX, Hugging Face Transformers, DeepSpeed, fastai, MXNet, PaddlePaddle, and managed cloud platforms like AWS SageMaker, Google Cloud Vertex AI, and Apple Create ML.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Deep-Learning-Libraries/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Deep-Learning-Libraries?style=flat-square&logo=github&color=gold" alt="Repo Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Deep-Learning-Libraries/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Deep-Learning-Libraries?style=flat-square&logo=github&color=blue" alt="Repo Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Deep-Learning-Libraries/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Deep-Learning-Libraries/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for model development, training orchestration, and open deep learning infrastructure—ideal for ML engineers, researchers, and organizations seeking transparent, vendor-independent frameworks.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
----
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
----
-
-## Sector Overview & Market Dynamics
-
-The global deep learning market is estimated at approximately **$125B–$178B in 2025–2026**, with the deep learning software libraries and platform segment accounting for over **$60B+** (growing at a CAGR exceeding 35–40%). The foundational software sector is **highly concentrated and winner-take-most** among top open-source runtime frameworks (PyTorch and TensorFlow commanding the vast majority of research and enterprise production) and hyperscaler cloud AI platforms (Amazon, Microsoft, and Alphabet), while the surrounding tooling ecosystem (specialized acceleration, fine-tuning, and inference orchestration) displays moderate fragmentation.
+<p align="center">
+  <b>Comprehensive directory of modern artificial intelligence (AI), machine learning (ML), and deep learning (DL) tools.</b><br>
+  Explore neural network architectures, high-performance automatic differentiation, distributed GPU/TPU training clusters, model fine-tuning frameworks, and production inference engines.
+</p>
 
 ---
 
-## SaaS/Hosted Platforms
+</div>
+
+## 📑 Table of Contents
+
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS & Hosted AI Platforms](#️-saas--hosted-ai-platforms)
+- [💻 Open-Source GitHub Frameworks](#-open-source-github-frameworks)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#️-disclaimer)
+
+---
+
+## 📊 Sector Overview & Market Dynamics
+
+The global deep learning market is estimated at approximately **$125B–$178B in 2025–2026**, with the deep learning software libraries and platform segment accounting for over **$60B+** (expanding at an aggressive compound annual growth rate exceeding 35–40%). The foundational software sector is **highly concentrated and winner-take-most** among top open-source runtime frameworks (PyTorch and TensorFlow commanding the vast majority of research and enterprise production) and hyperscaler cloud AI platforms (Amazon, Microsoft, and Alphabet), while the surrounding tooling ecosystem (specialized acceleration, fine-tuning, and inference orchestration) displays moderate fragmentation.
+
+---
+
+## ☁️ SaaS & Hosted AI Platforms
 
 | Product / Platform | Company / Vendor | Company Size (Market Cap / Valuation / Revenue) | Pricing (Starting Tier) | Free Tier Limits | Description & Best For |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -44,7 +57,7 @@ The global deep learning market is estimated at approximately **$125B–$178B in
 
 ---
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Frameworks
 
 The leading open-source deep learning libraries and frameworks, sorted by GitHub star count:
 
@@ -118,20 +131,38 @@ The leading open-source deep learning libraries and frameworks, sorted by GitHub
 
 ---
 
-## How to Contribute
+## 📈 Star History
 
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format and guidelines).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
+[![Star History Chart](https://star-history.dera.page/vvg?repos=ishandutta2007/Awesome-Deep-Learning-Libraries&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Deep-Learning-Libraries&type=date&legend=top-left)
 
 ---
 
-## Disclaimer
+## 🤝 How to Contribute
 
-- This is a **community-curated** list — not exhaustive and not an endorsement.
+Contributions are warmly welcomed! Help keep this deep learning guide comprehensive and current:
+
+1. 🍴 **Fork the repo.**
+2. 🌿 **Create a new branch** (`git checkout -b feature/awesome-addition`).
+3. 📝 **Add/edit entries** in `README.md` following existing format, SEO guidelines, and verified data.
+4. 🚀 **Submit a Pull Request** with a concise description of your additions.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using **Awesome Deep Learning Libraries**! If you find this curated index helpful in your machine learning research, software projects, or career development, please consider showing your support:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and share** the project with your developer communities, lab mates, and colleagues.
+- ☕ **Buy a coffee & sponsor**: Support continuous maintenance, research, and open-source curation via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+[![Sponsor ishandutta2007](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated** list — not an exhaustive registry nor a formal endorsement of any specific commercial vendor.
 - Deep learning libraries must be evaluated for **backend flexibility**, **ecosystem maturity**, and **maintenance status**. Chainer, Caffe, and Lasagne are no longer actively developed—avoid for new projects.
 - **The PyTorch vs. TensorFlow distinction:** PyTorch dominates AI research and modern generative modeling; TensorFlow remains prevalent across mature enterprise serving and mobile infrastructure.
 - **Keras 3's multi-backend capability:** Allows seamless execution on JAX, PyTorch, or TensorFlow, providing 20% to 350% potential speed improvements by selecting the optimal hardware engine.
@@ -139,5 +170,9 @@ Star the repo if you find it useful!
 
 ---
 
-**Made for ML engineers, researchers, and organizations building transparent deep learning solutions.**  
+<div align="center">
+
+**Made with ❤️ for ML engineers, researchers, and organizations building transparent deep learning solutions.**  
 Let's make Deep Learning Libraries more open, data-driven, and flexible.
+
+</div>
